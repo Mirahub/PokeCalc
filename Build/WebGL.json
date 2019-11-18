@@ -3,7 +3,7 @@
 "productName": "PokeCalculator",
 "productVersion": "0.1",
 "dataUrl": "WebGL.data.unityweb",
-"wasmCodeUrl": "WebGL.wasm.code.unityweb",
+"wasmCodeUrl": "WebGL.wasm",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
